@@ -1,0 +1,2 @@
+# SMSSpamCollection
+Proiect inteligenta artificiala
